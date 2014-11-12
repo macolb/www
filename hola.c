@@ -1,1 +1,4 @@
-esto es un archivo
+git add . 
+git commit
+git push origin master
+git status
